@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2026 Yona Enterprises, LLC. All rights reserved.
+ * Proprietary and confidential. Unauthorized use prohibited.
+ */
 // All editable site content in one place — change copy, apps, services,
 // courses, and pricing here.
 
@@ -6,7 +10,7 @@ export const APPS = [
   { name: 'Yona CRM', tag: 'Relationships', desc: 'One view of every person across your ministries and businesses — students, attendees, donors, and members.', url: 'https://yona-crm.vercel.app' },
   { name: 'YonaLearn', tag: 'Learning', desc: 'Course delivery, enrollment, and payments for theological education and training. (NCTS PureLight)', url: 'https://yona-lms.com' },
   { name: 'Kingdom Stewardship Pro', tag: 'Giving', desc: 'Stewardship and generosity tools that help congregations give and track with clarity.', url: 'https://stewardship.thehealedplace.org' },
-  { name: 'Kingdom Wealth Builders', tag: 'Finance', desc: 'Faith-centered financial coaching and wealth-building guidance for families.', url: 'https://wealth.thehealedplace.org' },
+  { name: 'Kingdom Wealth Builders', tag: 'Finance', desc: 'Faith-centered financial coaching and wealth-building guidance for families.', url: 'https://finance.thehealedplace.org' },
   { name: 'Cornerstone', tag: 'Church management', desc: 'A content and management foundation for churches to run their day-to-day.', url: 'https://cornerstone-cms.org' },
   { name: 'MoneyWise', tag: 'Personal finance', desc: 'Everyday budgeting and money guidance grounded in stewardship principles.', url: 'https://money-wise-rho.vercel.app' },
   { name: 'The Help Program', tag: 'Community', desc: 'A structured support and enrollment program serving people where they are.', url: 'https://help-program.vercel.app' },
